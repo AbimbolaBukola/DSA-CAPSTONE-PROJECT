@@ -41,7 +41,7 @@ In the initial phase of the Data Cleaning and preparation, the following actions
 
 EDA involved exploring of the Data to answer some questions about the Data, such as:
 
-1. What is the gender distribution in the organization? Distil to regions and 
+1. What is the gender distribution in the organisation? Distil to regions and 
 departments 
 2. Show insights on ratings based on gender 
 3. Analyse the company’s salary structure. Identify if there is a gender pay gap. If 
