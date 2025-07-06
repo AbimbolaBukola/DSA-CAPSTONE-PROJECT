@@ -45,8 +45,8 @@ EDA involved exploring of the Data to answer some questions about the Data, such
 departments 
 2. Show insights on ratings based on gender 
 3. Analyse the company’s salary structure. Identify if there is a gender pay gap. If 
-there is, identify the department and regions that should be the focus of 
-management 
+there is a gap identify the department and regions that should be the focus of 
+management.
 4. A recent regulation was adopted which requires manufacturing companies to pay 
 employees a minimum of $90,000 
    ● Does Palmoria meet this requirement? 
@@ -60,4 +60,5 @@ etc.?
 bonus) 
    ● Total amount to be paid out per region and company-wide
 ### Data Analysis
+   ![Palmora Group HR Analysis](https://github.com/user-attachments/assets/4607ec00-ac7b-4858-af92-f07c49e9b4cc)
 
