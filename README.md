@@ -26,10 +26,10 @@ The primary data source used here is Plamora Group emp-data.csv, which is open d
 
 ### Tools Used
 
-- Power Bi Transform Data Queries (for data Cleaning )
--  Power Bi Data Preview Column quality, column distribution ( For Data integrity and distinct value)
--  Dax Functions ( for New measures )
-- Power BI (for Data Visualization)
+- Power BI Transform Data Queries (for data Cleaning )
+-  Power BI Data Preview Column quality, column distribution ( For Data integrity and distinct value)
+-  Dax Functions ( for New Measures)
+- Power BI (for Data Visualisation)
 ### Data Cleaning and Preparation
 
 In the initial phase of the Data Cleaning and preparation, the following actions were performed:
@@ -39,13 +39,12 @@ In the initial phase of the Data Cleaning and preparation, the following actions
    
 ### Exploratory Data Analysis
 
-EDA involved exploring of the Data to answer some questions about the Data, such as:
+EDA involved exploring the Data to answer some questions about the Data, such as:
 
 1. What is the gender distribution in the organisation? Distil to regions and 
 departments 
 2. Show insights on ratings based on gender 
-3. Analyse the company’s salary structure. Identify if there is a gender pay gap. If 
-there is a gap, identify the department and regions that should be the focus of 
+3. Analyse the company’s salary structure. Identify if there is a gender pay gap. If there is a gap, identify the department and regions that should be the focus of 
 management.
 4. A recent regulation was adopted which requires manufacturing companies to pay 
 employees a minimum of $90,000 
@@ -69,8 +68,14 @@ bonus)
    ![BONUS PAY](https://github.com/user-attachments/assets/780d0fd5-4563-4032-b269-07900f51b352)
    
 ###INSIGHT
+
  Based on the given data, the total employee count of the organisation is 946, out of which 53% (505) of the company's employees are male and 47% (441) of the employees are Female.
+ 
  The Gender distribution of the Organisation by rating shows that the highest number of employees are rated as Average, with a total of 230 (24%) males and 190 (20%) females. Approximately 44.4% of the organisation is rated as Average.
+
+ The Gender distribution of the Organisation by Department shows that there are more males in the Legal department and more females in the Service department of the Organisation. However, the Human Resources department has an equal number of both genders.
+
+ 
  
    
 
