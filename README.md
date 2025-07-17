@@ -68,7 +68,10 @@ bonus)
 
    ![BONUS PAY](https://github.com/user-attachments/assets/780d0fd5-4563-4032-b269-07900f51b352)
    
-
+###INSIGHT
+ Based on the given data, the total employee count of the organisation is 946, out of which 53% (505) of the company's employees are male and 47% (441) of the employees are Female.
+ The Gender distribution of the Organisation by rating shows that the highest number of employees are rated as Average, with a total of 230 (24%) males and 190 (20%) females. Approximately 44.4% of the organisation is rated as Average.
+ 
    
 
 
