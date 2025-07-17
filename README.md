@@ -61,19 +61,31 @@ bonus)
 ### Data Analysis
    ![PALMORA HR ANALYSIS](https://github.com/user-attachments/assets/f2b58cd7-4e4d-4271-8e3f-00e06f7040c9)
 
+###INSIGHT
+
+
+ Based on the given data, the total employee count of the organisation is 946, out of which 53% (505) of the company's employees are male and 47% (441) of the employees are Female.
+
+The Gender distribution of the Organisation by Region  shows that Kaduna has the highest number of 54.29%  male employees and Lagos has the highest Female employee of 47.2%. Howvever, from the data analysed it shows that the  three regions are dominant by male employees raging from 54.29% Kaduna, 52.84% Abuja and 52.80% Lagos respectively. Also, the three regions have 47.2% Lagos, 47.16% Abuja and 45.71% Kaduna of female employees respectively.
+ 
+ The Gender distribution of the Organisation by rating shows that the highest number of employees are rated as Average, with a total of 230 (24%) males and 190 (20%) females. Approximately 44.4% of the organisation is rated as Average.
+
+ The Gender distribution of the Organisation by Department shows that there are more males in the Legal department and more females in the Service department of the Organisation. However, the Human Resources department has an equal number of both genders.
+
+
    ![PALMORA SALARY STRUCTURE](https://github.com/user-attachments/assets/20979377-9c53-4b62-9ae9-e0b4904407f6)
+
+
+   ###INSIGHT
+
+The Company's Salary structure shows that male employees earn more than Female. From the data given Legal department have the highest Salary paid to male employees, while the Service and Business Development departments have an equal amount of Salaries paid to female employees.
 
    ![PALMORA PAY DISTRIBUTION](https://github.com/user-attachments/assets/f82ad509-23b9-4472-97a0-673ceae99c31)
 
    ![BONUS PAY](https://github.com/user-attachments/assets/780d0fd5-4563-4032-b269-07900f51b352)
    
-###INSIGHT
 
- Based on the given data, the total employee count of the organisation is 946, out of which 53% (505) of the company's employees are male and 47% (441) of the employees are Female.
  
- The Gender distribution of the Organisation by rating shows that the highest number of employees are rated as Average, with a total of 230 (24%) males and 190 (20%) females. Approximately 44.4% of the organisation is rated as Average.
-
- The Gender distribution of the Organisation by Department shows that there are more males in the Legal department and more females in the Service department of the Organisation. However, the Human Resources department has an equal number of both genders.
 
  
  
